@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# Loktra-Software-Engineering
+Loktra Software Engineering Task
+
+
 ## Software Engineer Programming Task
 
 In order to be considered for the software engineer position, you must complete the following steps. 
@@ -22,7 +25,3 @@ You must complete atleast two of the following tasks:
 4. Commit and push your code to your new repository.
 
 To apply, please email akhil@loktra.com with your solution - fullstack-engineer as the first word in the subject line. Include link of your code on Github, and also send us a current resume in HTML, Plain Text, or PDF format. In the body of the email please explain why you would be a good fit for this job.
-=======
-# Loktra-Software-Engineering
-Loktra Software Engineering Task
->>>>>>> 68f59dafca16d143aa95e7b3609d896ee5880a9f
